@@ -195,7 +195,6 @@ hr {
     padding-top: 20px;
 }
 
-/*item02*/
 .third-sec-item2 {
     height: 352px;
     width: 360px;
@@ -224,7 +223,6 @@ hr {
 
 }
 
-/*item-3*/
 .third-sec-item3 {
     height: 352px;
     width: 360px;
@@ -252,7 +250,6 @@ hr {
 
 }
 
-/*item-4*/
 .third-sec-item4 {
     height: 352px;
     width: 360px;
@@ -288,32 +285,33 @@ hr {
 .fourth-sec {
     display: flex;
     column-gap: 85px;
-    margin-top: 80px;
+    margin: 0px 0px 0px 0px;
+    background-image: url(images/donation8.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 669px;
+    margin-top: 100px;
+    padding-right: 20px;
+    object-fit: 100%;
+    margin-left: 70px;
+    opacity: 0.8;
+    filter: brightness(120%);
+    filter: contrast(120%);
+    filter: drop-shadow(10px 10px 10px black);
+
 }
 
 .fourth-sec-item1 {
-    margin-left: 160px;
+    margin-left: 260px;
     margin-top: 133px;
+
 }
 
 .fourth-sec-item1 h1 {
-    font-size: 40px;
+    font-size: 50px;
     line-height: 30.4px;
-}
-
-.fourth-sec-item1 p {
-    color: #707070;
-    margin-top: 20px;
-    margin-bottom: 40px;
-}
-
-.fourth-sec-item2 img {
-    height: 350px;
-    width: 400px;
-    margin-top: 40px;
-    margin-right: 250px;
-    margin-top: 132px;
-
+    color: white;
+    text-shadow: 2px 2px black;
 
 }
 
@@ -324,7 +322,10 @@ hr {
     color: white;
     padding: 15px 32px;
     font-size: 20px;
+    margin-top: 40px;
 }
+
+/*Fourth Section End*/
 
 /*Footer Section Start*/
 footer {
