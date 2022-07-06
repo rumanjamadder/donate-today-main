@@ -284,6 +284,48 @@ hr {
 
 /*Third Section End*/
 
+/*Fourth Section Start*/
+.fourth-sec {
+    display: flex;
+    column-gap: 85px;
+    margin-top: 80px;
+}
+
+.fourth-sec-item1 {
+    margin-left: 160px;
+    margin-top: 133px;
+}
+
+.fourth-sec-item1 h1 {
+    font-size: 40px;
+    line-height: 30.4px;
+}
+
+.fourth-sec-item1 p {
+    color: #707070;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.fourth-sec-item2 img {
+    height: 350px;
+    width: 400px;
+    margin-top: 40px;
+    margin-right: 250px;
+    margin-top: 132px;
+
+
+}
+
+.button3 {
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 20px;
+}
+
 /*Footer Section Start*/
 footer {
     height: 176px;
@@ -292,7 +334,8 @@ footer {
     top: 3773px;
     border-radius: 0px;
     background-color: #0B0D17;
-    margin-top: 80px;
+    margin-top: 180px;
+
 
 }
 
