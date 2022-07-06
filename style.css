@@ -30,7 +30,7 @@ body {
     letter-spacing: -4%;
 }
 
-section {
+.top {
     background-image: url(images/Rectangle\ 237.png);
     border: 1px solid #000000;
     filter: drop-shadow(0px, 19px, 19x, rgb(0, 0, 0, 0.50));
@@ -51,3 +51,127 @@ section {
 }
 
 /*First Section End*/
+
+/*Second Section Start*/
+.box {
+    width: 20%;
+    display: flex;
+    padding-left: 525px;
+    padding-top: 50px;
+    margin: 0%;
+    padding-bottom: 30px;
+}
+
+.second-sec-item1 h1 {
+    height: 54px;
+    width: 304px;
+    padding-left: 568px;
+    padding-top: 130px;
+    border-radius: nullpx;
+    text-align: center;
+    font-size: 40px;
+}
+
+.second-sec-item1 p {
+    height: 56px;
+    width: 691px;
+    padding-left: 375px;
+    padding-top: 20px;
+    border-radius: nullpx;
+    text-align: center;
+    color: #707070;
+}
+
+.second-sec-item2 {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    text-align: center;
+    color: #707070;
+    font-size: 13px;
+
+}
+
+
+
+.second-sec-item3 {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color: #FFEEEE;
+    text-align: center;
+    color: #707070;
+    border: 2px solid #FF5959;
+    font-size: 13px;
+    text-align: center;
+
+}
+
+.second-sec-item4 {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    text-align: center;
+    color: #707070;
+    font-size: 13px;
+}
+
+.second-sec-item5 {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    text-align: center;
+    color: #707070;
+    font-size: 13px;
+}
+
+.second-sec-item6 {
+    height: 50px;
+    width: 50px;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 5px;
+    background-color: #FAFAFA;
+    text-align: center;
+    color: #707070;
+    font-size: 13px;
+}
+
+.other-amount {
+    text-align: center;
+    color: #B3B3B3;
+}
+
+hr {
+    width: 750px;
+}
+
+.button2 {
+    background-color: #FF5959;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    font-size: 20px;
+}
+
+.button-div {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+/*Second Section End*/
+
+/*Third Section Start*/
