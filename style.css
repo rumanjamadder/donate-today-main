@@ -59,6 +59,7 @@ body {
     padding-left: 525px;
     padding-top: 50px;
     margin: 0%;
+    column-gap: 22px;
     padding-bottom: 30px;
 }
 
@@ -94,8 +95,6 @@ body {
     font-size: 13px;
 
 }
-
-
 
 .second-sec-item3 {
     height: 50px;
@@ -175,3 +174,111 @@ hr {
 /*Second Section End*/
 
 /*Third Section Start*/
+.food-shelter-education {
+    display: flex;
+    column-gap: 24px;
+    margin-left: 110px;
+
+}
+
+.third-sec-item1 h3 {
+    font-size: 45px;
+    padding-left: 542px;
+
+}
+
+.third-sec-item1 p {
+    font-size: 18px;
+    color: #707070;
+    padding-left: 375px;
+    padding-top: 20px;
+}
+
+/*item02*/
+.third-sec-item2 {
+    height: 352px;
+    width: 360px;
+    left: 157px;
+    top: 1595.5px;
+    border-radius: 5px;
+    background-color: #4F9DA61A;
+
+}
+
+.third-sec-item2 h3 {
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
+.third-sec-item2 p {
+    padding-top: 16px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
+.icon1 {
+    padding-top: 64px;
+    padding-left: 23px;
+
+}
+
+/*item-3*/
+.third-sec-item3 {
+    height: 352px;
+    width: 360px;
+    left: 541px;
+    top: 1595.5px;
+    border-radius: 5px;
+    background-color: #FF59591A;
+}
+
+.third-sec-item3 h3 {
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
+.third-sec-item3 p {
+    padding-top: 16px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
+.icon2 {
+    padding-top: 64px;
+    padding-left: 23px;
+
+}
+
+/*item-4*/
+.third-sec-item4 {
+    height: 352px;
+    width: 360px;
+    left: 541px;
+    top: 1595.5px;
+    border-radius: 5px;
+    background-color: navajowhite;
+
+}
+
+.third-sec-item4 h3 {
+    padding-top: 32px;
+    padding-left: 23px;
+    padding-right: 22px;
+
+}
+
+.third-sec-item4 p {
+    padding-top: 16px;
+    padding-left: 23px;
+    padding-right: 22px;
+}
+
+.icon3 {
+    padding-top: 64px;
+    padding-left: 23px;
+
+}
+
+/*Third Section End*/
